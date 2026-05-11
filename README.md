@@ -105,12 +105,3 @@ El análisis muestra que el precio del petróleo Brent presenta una elevada vola
 
 Este proyecto demuestra un flujo completo de análisis de datos: carga, limpieza, transformación, visualización, creación de funciones y exportación de resultados para herramientas de visualización como Power BI.
 
-## Próximos pasos
-
-Como posibles mejoras futuras, se podrían añadir:
-
-- dashboard interactivo en Power BI;
-- comparación entre Brent y WTI;
-- análisis de medias móviles;
-- análisis por periodos económicos;
-- incorporación de datos macroeconómicos o de producción de petróleo.
