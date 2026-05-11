@@ -19,8 +19,6 @@ El objetivo de este proyecto es realizar un análisis exploratorio sencillo del 
 - pandas
 - matplotlib
 - Jupyter Notebook
-- Power BI
-- DAX
 
 ## Fuente de datos
 
@@ -105,3 +103,4 @@ El análisis muestra que el precio del petróleo Brent presenta una elevada vola
 
 Este proyecto demuestra un flujo completo de análisis de datos: carga, limpieza, transformación, visualización, creación de funciones y exportación de resultados para herramientas de visualización como Power BI.
 
+*Preparación de datos para posible análisis posterior en Power BI
